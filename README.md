@@ -4,7 +4,7 @@ HealthWelfareStatDB R package, see https://github.com/kerni714/HealthWelfareStat
 for more information regarding the package and data.
 
 ## Usage
-To run the app, the following code could be run:
+Running the app can be done with:
 
 ``` r
 library(shiny)
